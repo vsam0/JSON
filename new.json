@@ -2,5 +2,8 @@
 
 	"name": "Viktoria",
 	"surname": "Semenova",
-	"patronymic": "Alexandrovna"
+	"patronymic": "Alexandrovna",
+	"age": "23",
+	"pets": "7",
+	"salary": "600"
 }
